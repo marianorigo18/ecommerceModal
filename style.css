@@ -1,0 +1,18 @@
+.nav i{
+    font-size: 30px;
+}
+.carddd{
+    width: 90%;
+    border: 1px solid black;
+}
+.card-cont-img{
+    width: 40%;
+}
+.carddd img{
+    width: 100px;
+}
+.card-body{
+    width: 60%
+    
+    ;
+}
